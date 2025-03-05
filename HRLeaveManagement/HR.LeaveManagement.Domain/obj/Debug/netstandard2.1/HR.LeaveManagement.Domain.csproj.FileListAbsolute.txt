@@ -1,0 +1,9 @@
+C:\Code\Codetaolao\ASPCOREFULLCODE\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.deps.json
+C:\Code\Codetaolao\ASPCOREFULLCODE\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.dll
+C:\Code\Codetaolao\ASPCOREFULLCODE\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.pdb
+C:\Code\Codetaolao\ASPCOREFULLCODE\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Codetaolao\ASPCOREFULLCODE\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Code\Codetaolao\ASPCOREFULLCODE\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Code\Codetaolao\ASPCOREFULLCODE\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Code\Codetaolao\ASPCOREFULLCODE\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.dll
+C:\Code\Codetaolao\ASPCOREFULLCODE\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.pdb
